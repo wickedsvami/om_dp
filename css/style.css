@@ -1,3 +1,13 @@
+
+.card_container {
+    font-family: Oxygen, sans-serif;
+    display: grid;
+    margin: 2rem;
+    grid-template-columns: repeat(auto-fit, minmax(12rem, 16rem));
+    grid-gap: 1rem;
+    justify-content: center;
+}
+
 .card {
-    display:inline-block;
+    margin-right: 1rem;
 }
