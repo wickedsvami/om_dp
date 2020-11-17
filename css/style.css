@@ -16,4 +16,21 @@ footer{
     text-align: center;
     padding: 2px;
 }
-
+#sidebar_image {
+    margin-right: auto;
+    margin-left: auto;
+    width: 320px;
+}
+.centerText {
+    text-align: center;
+}
+.grBig {
+    width: 593px;
+}
+.grSmall {
+    width: 367px;
+}
+.floatRight{
+    float:right;
+    margin-left:20px;
+}
