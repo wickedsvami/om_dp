@@ -25,21 +25,7 @@ footer{
     width: 100%;
     background-color: #343c44;
 }
-#sidebar_image {
-    margin-right: auto;
-    margin-left: auto;
-    width: 320px;
-}
-.centerText {
-    text-align: center;
-}
-.grBig {
-    width: 593px;
-}
-.grSmall {
-    width: 367px;
-}
 .floatRight{
     float:right;
-    margin-left:20px;
+    margin-left:30px;
 }
