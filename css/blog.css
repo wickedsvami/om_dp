@@ -1,4 +1,5 @@
 
-.card-header {
+.card_holder {
     position: sticky;
+    position: -webkit-sticky;
 }
