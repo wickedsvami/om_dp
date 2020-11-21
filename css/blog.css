@@ -1,5 +1,10 @@
 
-.card_holder {
+.card_holder{
     position: sticky;
     position: -webkit-sticky;
+
+}
+
+img {
+    padding-bottom: 10px;
 }
