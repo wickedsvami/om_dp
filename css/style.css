@@ -7,13 +7,39 @@
     grid-template-columns: repeat(auto-fit, minmax(14rem, 18rem));
     justify-content: center;
 }
-
-footer{
+/*footer{
+    position: fixed;
     left: 0;
     width: 100%;
     background-color:#343c44;
     color: white;
     text-align: center;
     padding: 2px;
+}*/
+footer{
+    padding: 2px;
+    left: 0;
+    color:white;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    background-color: #343c44;
 }
-
+#sidebar_image {
+    margin-right: auto;
+    margin-left: auto;
+    width: 320px;
+}
+.centerText {
+    text-align: center;
+}
+.grBig {
+    width: 593px;
+}
+.grSmall {
+    width: 367px;
+}
+.floatRight{
+    float:right;
+    margin-left:20px;
+}
