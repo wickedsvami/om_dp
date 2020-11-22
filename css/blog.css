@@ -1,4 +1,8 @@
-
+.container{
+    margin-left:;
+    width: 50%;
+    float: left;
+}
 .card_holder{
     position: sticky;
     position: -webkit-sticky;
