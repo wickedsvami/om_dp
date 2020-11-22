@@ -5,23 +5,23 @@
 .wrapper{
     float: left;
 }
+
 .content {
-    width: 600px;
-    margin-left: 5rem;
+    width: 650px;
+    margin-left: 4rem;
 }
 
 img{
     padding-bottom: 1rem;
 }
 
-.card{
-    margin-top: 2rem;
-    margin-left: 30rem;
-    float: left;
-    position: fixed;
-}
-
 p {
     display: inline-block;
 }
 
+.card{
+    margin-top: 2rem;
+    margin-left: 47rem;
+    float: left;
+    position: fixed;
+}

@@ -16,6 +16,7 @@
     text-align: center;
     padding: 2px;
 }*/
+
 footer{
     padding: 2px;
     left: 0;
@@ -25,6 +26,7 @@ footer{
     width: 100%;
     background-color: #343c44;
 }
+
 #sidebar_image {
     margin-right: auto;
     margin-left: auto;
