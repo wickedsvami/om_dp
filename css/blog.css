@@ -16,11 +16,11 @@ img{
 
 .card{
     margin-top: 2rem;
-    margin-left: 3rem;
+    margin-left: 30rem;
     float: left;
-    position: -webkit-sticky; /* Safari */
-    position: sticky;
+    position: fixed;
 }
+
 p {
     display: inline-block;
 }
