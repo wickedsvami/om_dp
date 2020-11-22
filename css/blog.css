@@ -1,14 +1,27 @@
-.container{
-    margin-left:;
-    width: 50%;
+.header{
+    margin-left: 5rem;
+}
+
+.wrapper{
     float: left;
 }
-.card_holder{
+.content {
+    width: 600px;
+    margin-left: 5rem;
+}
+
+img{
+    padding-bottom: 1rem;
+}
+
+.card{
+    margin-top: 2rem;
+    margin-left: 3rem;
+    float: left;
+    position: -webkit-sticky; /* Safari */
     position: sticky;
-    position: -webkit-sticky;
-
+}
+p {
+    display: inline-block;
 }
 
-img {
-    padding-bottom: 10px;
-}
